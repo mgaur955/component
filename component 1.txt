@@ -5,22 +5,13 @@
 <body>
 <h1>hello hi </h1>
 <h2> i have pushed in git </h2>
-<<<<<<< HEAD
-shid <br>
 jksfuis<br>
-=======
-<h3>  i am the first programmer </h3>
->>>>>>> 3af8ad3fc2fda8b0928ce381deb7e5ec481826a2
 
-<<<<<<< HEAD
 
 3 rd attempt  3333333333333333333333333333333333333
 
-=======
-second attempt 222222222222222
->>>>>>> 7689657a369616b052eac029f45b437969f2f6da
 
 
-commited changes in child 2...
+commit changes in child 1 ..
 </body>
 </html>
