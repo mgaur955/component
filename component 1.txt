@@ -21,6 +21,6 @@ second attempt 222222222222222
 >>>>>>> 7689657a369616b052eac029f45b437969f2f6da
 
 
-commit changes in child 1
+commited changes in child 2
 </body>
 </html>
