@@ -5,9 +5,8 @@
 <body>
 <h1>hello hi </h1>
 <h2> i have pushed in git </h2>
-<<<<<<< HEAD
-shid <br>
 jksfuis<br>
+<<<<<<< HEAD
 =======
 <h3>  i am the first programmer </h3>
 >>>>>>> 3af8ad3fc2fda8b0928ce381deb7e5ec481826a2
@@ -18,6 +17,9 @@ boss hu
 maiii
 i am DON
 <<<<<<< HEAD
+=======
+
+>>>>>>> efd45bc77ffe875aeee68d5f001f53515b4596ad
 
 3 rd attempt  33333333333333333333333333333333333331
 1
@@ -28,8 +30,24 @@ i am DON
 1
 1
 
+
+
+commit changes in child 1 ..
+
+2
+2
+2
+2
+2
 =======
-second attempt 222222222222222
->>>>>>> 7689657a369616b052eac029f45b437969f2f6da
+
+
+1
+1
+1
+1
+1
+
+
 </body>
 </html>
